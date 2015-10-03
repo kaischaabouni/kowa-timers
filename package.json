@@ -1,0 +1,23 @@
+{
+  "name": "kowa-timers",
+  "version": "0.0.2",
+  "description": "Kowa timers: asynchronous performance and synchronous simplicity",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": "https://github.com/riadhchtara/kowa-timers",
+  "keywords": [
+    "async",
+    "sync",
+    "kowa",
+    "task",
+    "promise",
+	"timers"
+  ],
+  "author": "Kais CHAABOUNI",
+  "license": "APL 2.0",
+  "dependencies": {
+    "kowa": "0.0.3"
+  }
+}
